@@ -5,7 +5,7 @@ Utility libs/scripts/programs using python
 
 
 # DNS Simulator with ICMP Error Handling
-# DNS_Error_response_simulator.py
+DNS_Error_response_simulator.py
 
 **Author:** Vivekananda K
 
