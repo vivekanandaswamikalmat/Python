@@ -35,7 +35,7 @@ This Python script simulates a DNS server that can respond to DNS queries with v
 1.  **Run the script:**
 
     ```bash
-    sudo python dns_simulator.py <response_type>
+    sudo python DNS_Error_response_simulator.py <response_type>
     ```
 
 2.  **Replace `<response_type>` with one of the following:**
@@ -51,4 +51,4 @@ This Python script simulates a DNS server that can respond to DNS queries with v
 To simulate a DNS server that responds with a `SERVFAIL` error:
 
 ```bash
-sudo python dns_simulator.py SERVFAIL
+sudo python DNS_Error_response_simulator.py SERVFAIL
